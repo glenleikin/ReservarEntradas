@@ -1,0 +1,89 @@
+C:\Users\Glenda\Desktop\Proyecto Programacio 3\ReservaEntradas\ReservaEntradas\bin\Debug\ReservaEntradas.exe.config
+C:\Users\Glenda\Desktop\Proyecto Programacio 3\ReservaEntradas\ReservaEntradas\bin\Debug\ReservaEntradas.exe
+C:\Users\Glenda\Desktop\Proyecto Programacio 3\ReservaEntradas\ReservaEntradas\bin\Debug\ReservaEntradas.pdb
+C:\Users\Glenda\Desktop\Proyecto Programacio 3\ReservaEntradas\ReservaEntradas\obj\Debug\ReservaEntradas.csprojAssemblyReference.cache
+C:\Users\Glenda\Desktop\Proyecto Programacio 3\ReservaEntradas\ReservaEntradas\obj\Debug\ReservaEntradas.FrmAsiento.resources
+C:\Users\Glenda\Desktop\Proyecto Programacio 3\ReservaEntradas\ReservaEntradas\obj\Debug\ReservaEntradas.FrmDisponibilidad.resources
+C:\Users\Glenda\Desktop\Proyecto Programacio 3\ReservaEntradas\ReservaEntradas\obj\Debug\ReservaEntradas.FrmHorario.resources
+C:\Users\Glenda\Desktop\Proyecto Programacio 3\ReservaEntradas\ReservaEntradas\obj\Debug\ReservaEntradas.formPersona.resources
+C:\Users\Glenda\Desktop\Proyecto Programacio 3\ReservaEntradas\ReservaEntradas\obj\Debug\ReservaEntradas.FrmPeliculas.resources
+C:\Users\Glenda\Desktop\Proyecto Programacio 3\ReservaEntradas\ReservaEntradas\obj\Debug\ReservaEntradas.Properties.Resources.resources
+C:\Users\Glenda\Desktop\Proyecto Programacio 3\ReservaEntradas\ReservaEntradas\obj\Debug\ReservaEntradas.csproj.GenerateResource.cache
+C:\Users\Glenda\Desktop\Proyecto Programacio 3\ReservaEntradas\ReservaEntradas\obj\Debug\ReservaEntradas.csproj.CoreCompileInputs.cache
+C:\Users\Glenda\Desktop\Proyecto Programacio 3\ReservaEntradas\ReservaEntradas\obj\Debug\ReservaEntradas.exe
+C:\Users\Glenda\Desktop\Proyecto Programacio 3\ReservaEntradas\ReservaEntradas\obj\Debug\ReservaEntradas.pdb
+C:\Users\Glenda\Downloads\ReservaEntradas\ReservaEntradas\ReservaEntradas\bin\Debug\ReservaEntradas.exe.config
+C:\Users\Glenda\Downloads\ReservaEntradas\ReservaEntradas\ReservaEntradas\bin\Debug\ReservaEntradas.exe
+C:\Users\Glenda\Downloads\ReservaEntradas\ReservaEntradas\ReservaEntradas\bin\Debug\ReservaEntradas.pdb
+C:\Users\Glenda\Downloads\ReservaEntradas\ReservaEntradas\ReservaEntradas\obj\Debug\ReservaEntradas.csprojAssemblyReference.cache
+C:\Users\Glenda\Downloads\ReservaEntradas\ReservaEntradas\ReservaEntradas\obj\Debug\ReservaEntradas.FrmAsiento.resources
+C:\Users\Glenda\Downloads\ReservaEntradas\ReservaEntradas\ReservaEntradas\obj\Debug\ReservaEntradas.FrmDisponibilidad.resources
+C:\Users\Glenda\Downloads\ReservaEntradas\ReservaEntradas\ReservaEntradas\obj\Debug\ReservaEntradas.FrmHorario.resources
+C:\Users\Glenda\Downloads\ReservaEntradas\ReservaEntradas\ReservaEntradas\obj\Debug\ReservaEntradas.formPersona.resources
+C:\Users\Glenda\Downloads\ReservaEntradas\ReservaEntradas\ReservaEntradas\obj\Debug\ReservaEntradas.FrmPeliculas.resources
+C:\Users\Glenda\Downloads\ReservaEntradas\ReservaEntradas\ReservaEntradas\obj\Debug\ReservaEntradas.Properties.Resources.resources
+C:\Users\Glenda\Downloads\ReservaEntradas\ReservaEntradas\ReservaEntradas\obj\Debug\ReservaEntradas.csproj.GenerateResource.cache
+C:\Users\Glenda\Downloads\ReservaEntradas\ReservaEntradas\ReservaEntradas\obj\Debug\ReservaEntradas.csproj.CoreCompileInputs.cache
+C:\Users\Glenda\Downloads\ReservaEntradas\ReservaEntradas\ReservaEntradas\obj\Debug\ReservaEntradas.exe
+C:\Users\Glenda\Downloads\ReservaEntradas\ReservaEntradas\ReservaEntradas\obj\Debug\ReservaEntradas.pdb
+C:\Users\carme\OneDrive\Desktop\facultad\3er Cuatrimestre\programacion iii\proyecto\ReservaEntradas\ReservaEntradas\bin\Debug\ReservaEntradas.exe.config
+C:\Users\carme\OneDrive\Desktop\facultad\3er Cuatrimestre\programacion iii\proyecto\ReservaEntradas\ReservaEntradas\bin\Debug\ReservaEntradas.exe
+C:\Users\carme\OneDrive\Desktop\facultad\3er Cuatrimestre\programacion iii\proyecto\ReservaEntradas\ReservaEntradas\bin\Debug\ReservaEntradas.pdb
+C:\Users\carme\OneDrive\Desktop\facultad\3er Cuatrimestre\programacion iii\proyecto\ReservaEntradas\ReservaEntradas\obj\Debug\ReservaEntradas.csprojAssemblyReference.cache
+C:\Users\carme\OneDrive\Desktop\facultad\3er Cuatrimestre\programacion iii\proyecto\ReservaEntradas\ReservaEntradas\obj\Debug\ReservaEntradas.FrmAsiento.resources
+C:\Users\carme\OneDrive\Desktop\facultad\3er Cuatrimestre\programacion iii\proyecto\ReservaEntradas\ReservaEntradas\obj\Debug\ReservaEntradas.FrmDisponibilidad.resources
+C:\Users\carme\OneDrive\Desktop\facultad\3er Cuatrimestre\programacion iii\proyecto\ReservaEntradas\ReservaEntradas\obj\Debug\ReservaEntradas.FrmHorario.resources
+C:\Users\carme\OneDrive\Desktop\facultad\3er Cuatrimestre\programacion iii\proyecto\ReservaEntradas\ReservaEntradas\obj\Debug\ReservaEntradas.formPersona.resources
+C:\Users\carme\OneDrive\Desktop\facultad\3er Cuatrimestre\programacion iii\proyecto\ReservaEntradas\ReservaEntradas\obj\Debug\ReservaEntradas.FrmPeliculas.resources
+C:\Users\carme\OneDrive\Desktop\facultad\3er Cuatrimestre\programacion iii\proyecto\ReservaEntradas\ReservaEntradas\obj\Debug\ReservaEntradas.Properties.Resources.resources
+C:\Users\carme\OneDrive\Desktop\facultad\3er Cuatrimestre\programacion iii\proyecto\ReservaEntradas\ReservaEntradas\obj\Debug\ReservaEntradas.csproj.GenerateResource.cache
+C:\Users\carme\OneDrive\Desktop\facultad\3er Cuatrimestre\programacion iii\proyecto\ReservaEntradas\ReservaEntradas\obj\Debug\ReservaEntradas.csproj.CoreCompileInputs.cache
+C:\Users\carme\OneDrive\Desktop\facultad\3er Cuatrimestre\programacion iii\proyecto\ReservaEntradas\ReservaEntradas\obj\Debug\ReservaEntradas.exe
+C:\Users\carme\OneDrive\Desktop\facultad\3er Cuatrimestre\programacion iii\proyecto\ReservaEntradas\ReservaEntradas\obj\Debug\ReservaEntradas.pdb
+C:\Users\carme\OneDrive\Desktop\facultad\3er Cuatrimestre\programacion iii\proyecto\ReservaEntradas\ReservaEntradas\obj\Debug\ReservaEntradas.FrmVolver.resources
+C:\Users\Glenda\Downloads\ReservaEntradas (1)\ReservaEntradas\ReservaEntradas\bin\Debug\ReservaEntradas.exe.config
+C:\Users\Glenda\Downloads\ReservaEntradas (1)\ReservaEntradas\ReservaEntradas\bin\Debug\ReservaEntradas.exe
+C:\Users\Glenda\Downloads\ReservaEntradas (1)\ReservaEntradas\ReservaEntradas\bin\Debug\ReservaEntradas.pdb
+C:\Users\Glenda\Downloads\ReservaEntradas (1)\ReservaEntradas\ReservaEntradas\obj\Debug\ReservaEntradas.csprojAssemblyReference.cache
+C:\Users\Glenda\Downloads\ReservaEntradas (1)\ReservaEntradas\ReservaEntradas\obj\Debug\ReservaEntradas.FrmAsiento.resources
+C:\Users\Glenda\Downloads\ReservaEntradas (1)\ReservaEntradas\ReservaEntradas\obj\Debug\ReservaEntradas.FrmDisponibilidad.resources
+C:\Users\Glenda\Downloads\ReservaEntradas (1)\ReservaEntradas\ReservaEntradas\obj\Debug\ReservaEntradas.FrmHorario.resources
+C:\Users\Glenda\Downloads\ReservaEntradas (1)\ReservaEntradas\ReservaEntradas\obj\Debug\ReservaEntradas.formPersona.resources
+C:\Users\Glenda\Downloads\ReservaEntradas (1)\ReservaEntradas\ReservaEntradas\obj\Debug\ReservaEntradas.FrmPeliculas.resources
+C:\Users\Glenda\Downloads\ReservaEntradas (1)\ReservaEntradas\ReservaEntradas\obj\Debug\ReservaEntradas.FrmVolver.resources
+C:\Users\Glenda\Downloads\ReservaEntradas (1)\ReservaEntradas\ReservaEntradas\obj\Debug\ReservaEntradas.Properties.Resources.resources
+C:\Users\Glenda\Downloads\ReservaEntradas (1)\ReservaEntradas\ReservaEntradas\obj\Debug\ReservaEntradas.csproj.GenerateResource.cache
+C:\Users\Glenda\Downloads\ReservaEntradas (1)\ReservaEntradas\ReservaEntradas\obj\Debug\ReservaEntradas.csproj.CoreCompileInputs.cache
+C:\Users\Glenda\Downloads\ReservaEntradas (1)\ReservaEntradas\ReservaEntradas\obj\Debug\ReservaEntradas.exe
+C:\Users\Glenda\Downloads\ReservaEntradas (1)\ReservaEntradas\ReservaEntradas\obj\Debug\ReservaEntradas.pdb
+C:\Users\Glenda\Desktop\Nueva carpeta\ReservaEntradas\ReservaEntradas\ReservaEntradas\bin\Debug\ReservaEntradas.exe.config
+C:\Users\Glenda\Desktop\Nueva carpeta\ReservaEntradas\ReservaEntradas\ReservaEntradas\bin\Debug\ReservaEntradas.exe
+C:\Users\Glenda\Desktop\Nueva carpeta\ReservaEntradas\ReservaEntradas\ReservaEntradas\bin\Debug\ReservaEntradas.pdb
+C:\Users\Glenda\Desktop\Nueva carpeta\ReservaEntradas\ReservaEntradas\ReservaEntradas\obj\Debug\ReservaEntradas.csprojAssemblyReference.cache
+C:\Users\Glenda\Desktop\Nueva carpeta\ReservaEntradas\ReservaEntradas\ReservaEntradas\obj\Debug\ReservaEntradas.FrmAsiento.resources
+C:\Users\Glenda\Desktop\Nueva carpeta\ReservaEntradas\ReservaEntradas\ReservaEntradas\obj\Debug\ReservaEntradas.FrmDisponibilidad.resources
+C:\Users\Glenda\Desktop\Nueva carpeta\ReservaEntradas\ReservaEntradas\ReservaEntradas\obj\Debug\ReservaEntradas.FrmHorario.resources
+C:\Users\Glenda\Desktop\Nueva carpeta\ReservaEntradas\ReservaEntradas\ReservaEntradas\obj\Debug\ReservaEntradas.formPersona.resources
+C:\Users\Glenda\Desktop\Nueva carpeta\ReservaEntradas\ReservaEntradas\ReservaEntradas\obj\Debug\ReservaEntradas.FrmPeliculas.resources
+C:\Users\Glenda\Desktop\Nueva carpeta\ReservaEntradas\ReservaEntradas\ReservaEntradas\obj\Debug\ReservaEntradas.FrmVolver.resources
+C:\Users\Glenda\Desktop\Nueva carpeta\ReservaEntradas\ReservaEntradas\ReservaEntradas\obj\Debug\ReservaEntradas.Properties.Resources.resources
+C:\Users\Glenda\Desktop\Nueva carpeta\ReservaEntradas\ReservaEntradas\ReservaEntradas\obj\Debug\ReservaEntradas.csproj.GenerateResource.cache
+C:\Users\Glenda\Desktop\Nueva carpeta\ReservaEntradas\ReservaEntradas\ReservaEntradas\obj\Debug\ReservaEntradas.csproj.CoreCompileInputs.cache
+C:\Users\Glenda\Desktop\Nueva carpeta\ReservaEntradas\ReservaEntradas\ReservaEntradas\obj\Debug\ReservaEntradas.exe
+C:\Users\Glenda\Desktop\Nueva carpeta\ReservaEntradas\ReservaEntradas\ReservaEntradas\obj\Debug\ReservaEntradas.pdb
+C:\Users\Glenda\Downloads\ReservaEntradas\ReservaEntradas\ReservaEntradas\obj\Debug\ReservaEntradas.FrmVolver.resources
+C:\Users\Glenda\Desktop\Reservar Entradas\ReservaEntradas\ReservaEntradas\ReservaEntradas\bin\Debug\ReservaEntradas.exe.config
+C:\Users\Glenda\Desktop\Reservar Entradas\ReservaEntradas\ReservaEntradas\ReservaEntradas\bin\Debug\ReservaEntradas.exe
+C:\Users\Glenda\Desktop\Reservar Entradas\ReservaEntradas\ReservaEntradas\ReservaEntradas\bin\Debug\ReservaEntradas.pdb
+C:\Users\Glenda\Desktop\Reservar Entradas\ReservaEntradas\ReservaEntradas\ReservaEntradas\obj\Debug\ReservaEntradas.csprojAssemblyReference.cache
+C:\Users\Glenda\Desktop\Reservar Entradas\ReservaEntradas\ReservaEntradas\ReservaEntradas\obj\Debug\ReservaEntradas.FrmAsiento.resources
+C:\Users\Glenda\Desktop\Reservar Entradas\ReservaEntradas\ReservaEntradas\ReservaEntradas\obj\Debug\ReservaEntradas.FrmDisponibilidad.resources
+C:\Users\Glenda\Desktop\Reservar Entradas\ReservaEntradas\ReservaEntradas\ReservaEntradas\obj\Debug\ReservaEntradas.FrmHorario.resources
+C:\Users\Glenda\Desktop\Reservar Entradas\ReservaEntradas\ReservaEntradas\ReservaEntradas\obj\Debug\ReservaEntradas.formPersona.resources
+C:\Users\Glenda\Desktop\Reservar Entradas\ReservaEntradas\ReservaEntradas\ReservaEntradas\obj\Debug\ReservaEntradas.FrmPeliculas.resources
+C:\Users\Glenda\Desktop\Reservar Entradas\ReservaEntradas\ReservaEntradas\ReservaEntradas\obj\Debug\ReservaEntradas.FrmVolver.resources
+C:\Users\Glenda\Desktop\Reservar Entradas\ReservaEntradas\ReservaEntradas\ReservaEntradas\obj\Debug\ReservaEntradas.Properties.Resources.resources
+C:\Users\Glenda\Desktop\Reservar Entradas\ReservaEntradas\ReservaEntradas\ReservaEntradas\obj\Debug\ReservaEntradas.csproj.GenerateResource.cache
+C:\Users\Glenda\Desktop\Reservar Entradas\ReservaEntradas\ReservaEntradas\ReservaEntradas\obj\Debug\ReservaEntradas.csproj.CoreCompileInputs.cache
+C:\Users\Glenda\Desktop\Reservar Entradas\ReservaEntradas\ReservaEntradas\ReservaEntradas\obj\Debug\ReservaEntradas.exe
+C:\Users\Glenda\Desktop\Reservar Entradas\ReservaEntradas\ReservaEntradas\ReservaEntradas\obj\Debug\ReservaEntradas.pdb
